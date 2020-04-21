@@ -52,6 +52,8 @@ Makefile
 # local build(s)
 build*
 
+*.vcxproj*
+
 /.vs
 /.vscode
 /CMakeSettings.json
